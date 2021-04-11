@@ -1,4 +1,4 @@
-import cv2 as cv2
+import cv2 as cv
 
 img = cv.imread('../Resource/Photos/cat_large.jpg')
 cv.imshow('Cat', img)
